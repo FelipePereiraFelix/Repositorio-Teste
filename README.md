@@ -1,2 +1,8 @@
 # Repositorio-Teste
- Repositório feito com o intuito de testes e treinamentos
+  _Este repositório só serve para eu_
+
+ -Revisar
+ -Controlar
+ -Aprender
+ -Absorver
+ 

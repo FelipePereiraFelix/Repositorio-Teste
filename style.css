@@ -1,3 +1,15 @@
 body{
-background-color: brown;
+background-color: aqua;
+}
+main{
+text-align: center;
+background-color: purple;
+}
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:#FF6633;
+}
+p{
+font-family:Arial, Helvetica, sans-serif;
+color:#FA824C
 }
